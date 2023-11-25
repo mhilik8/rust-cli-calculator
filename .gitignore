@@ -1,2 +1,5 @@
 # the lock ffile
 Cargo.lock
+
+# Clion idea
+.idea
